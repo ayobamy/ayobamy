@@ -8,7 +8,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayobamy&repo=ayobamy" />
 </a>
 <a href="https://github.com/ayobamy/ayobamy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayobamy&repo=ayobamy" />
-<a href="https://github.com/ayobamy/ayobamy">
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ayobamy&repo=ayobamy />
 </a>
