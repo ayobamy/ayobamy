@@ -5,7 +5,7 @@
 
 <!-- 
 ### :hammer_and_wrench: Languages and Tools: -->
-<br/>
+<br style="weight:4px"/>
 <hr/>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
 </div>
 <br/>
