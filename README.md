@@ -24,7 +24,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
 </div>
-<br/>
 <hr style="size:px"/>
 
   <div align="center" id="badges">
