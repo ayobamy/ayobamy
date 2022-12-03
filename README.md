@@ -24,7 +24,10 @@
 </div>
 <hr/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayobamy&theme=monokai&border_radius=20&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayobamy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayobamy&theme=monokai&border_radius=20&background=000000)](https://git.io/streak-stats)
+  <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayobamy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
+</div>
 <hr/>
 
   <div align="center" id="badges">
