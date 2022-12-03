@@ -5,8 +5,8 @@
 
 <!-- 
 ### :hammer_and_wrench: Languages and Tools: -->
-<br style="weight:4px"/>
-<hr/>
+<br/>
+<hr style="size:px"/>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
 </div>
 <br/>
+<hr style="size:px"/>
 
   <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/ahmed-olawale">
